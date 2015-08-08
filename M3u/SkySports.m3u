@@ -1,14 +1,66 @@
-#EXTINF:0, SkySport 1 
-http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8 
-#EXTINF:0, SkySport2 
- http://195.154.231.213:1935/live/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3 
- http://195.154.231.213:1935/live/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4 
- http://195.154.231.213:1935/live/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
- http://195.154.231.213:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
- http://195.154.231.213:1935/live/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
- http://195.154.231.213:1935/live/btsports2lsh/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1, CHELSEA TV
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+
+#EXTINF:-1, REAL MADRID TV
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, BARCA TV
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
+
+#EXTINF:-1, BARCA TV HD
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
+
+#EXTINF:-1, TVA Sport CANADA
+
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+#EXTINF:-1, SPORT TV AMERICAS [POR]
+
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1, SPORT1 (HOL)
+
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, SPORT1 (ALE)
+
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, ESPN (USA)
+
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1, ESPN UK FOXSPORT
+
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
+#EXTINF:-1, ESPN 2 UK
+
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+
+#EXTINF:-1, ARENA SPORT (IND)
+
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+
+#EXTINF:-1, LIVERPOOL TV
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u
+
+#EXTINF:-1, Bundesliga
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/99.m3u8
+
+
+#EXTINF:0, SkySport 1 http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8 
+#EXTINF:0, SkySport2  http://195.154.231.213:1935/live/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3  http://195.154.231.213:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:0, SkySport 4  http://195.154.231.213:1935/live/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5 http://195.154.231.213:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:0, BT Sport 1 http://195.154.231.213:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 2 http://195.154.231.213:1935/live/btsports2lsh/playlist.m3u8
