@@ -1,0 +1,13 @@
+#EXTINF:0, SkySport 1 http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8 
+ #EXTINF:0, SkySport2 
+ http://195.154.231.213:1935/live/skysports2lsh/playlist.m3u8
+ #EXTINF:0, SkySport 3 
+ http://195.154.231.213:1935/live/skysports3lsh/playlist.m3u8
+ #EXTINF:0, SkySport 4 
+ http://195.154.231.213:1935/live/skysports4lsh/playlist.m3u8
+ #EXTINF:0, SkySport 5
+ http://195.154.231.213:1935/live/skysports5lsh/playlist.m3u8
+ #EXTINF:0, BT Sport 1
+ http://195.154.231.213:1935/live/btsports1lsh/playlist.m3u8
+ #EXTINF:0, BT Sport 2
+ http://195.154.231.213:1935/live/btsports2lsh/playlist.m3u8
